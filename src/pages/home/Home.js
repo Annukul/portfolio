@@ -12,7 +12,7 @@ const Home = () => {
 
   useEffect(() => {
     setTimeout(() => {
-      setAlert(!alert);
+      setAlert(() => !alert);
     }, 3000);
   }, []);
 

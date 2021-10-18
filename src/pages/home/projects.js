@@ -35,6 +35,7 @@ const Projects = () => {
                 href="https://markdown-editor09.netlify.app/"
                 className="visit-btn"
                 target="_blank"
+                rel="noreferrer"
               >
                 Visit
               </a>
@@ -58,6 +59,7 @@ const Projects = () => {
                 href="https://cocktail-menu09.netlify.app/"
                 className="visit-btn"
                 target="_blank"
+                rel="noreferrer"
               >
                 Visit
               </a>
@@ -81,6 +83,7 @@ const Projects = () => {
                 href="https://grocery-list-app09.netlify.app/"
                 className="visit-btn"
                 target="_blank"
+                rel="noreferrer"
               >
                 Visit
               </a>
@@ -104,6 +107,7 @@ const Projects = () => {
                 href="https://stripe-landing-page09.netlify.app/"
                 className="visit-btn"
                 target="_blank"
+                rel="noreferrer"
               >
                 Visit
               </a>
@@ -134,6 +138,7 @@ const Projects = () => {
                 href="https://advance-movie-app.netlify.app/"
                 className="visit-btn"
                 target="_blank"
+                rel="noreferrer"
               >
                 Visit
               </a>
@@ -156,6 +161,7 @@ const Projects = () => {
                 href="https://color-shade-generator09.netlify.app/"
                 className="visit-btn"
                 target="_blank"
+                rel="noreferrer"
               >
                 Visit
               </a>
@@ -178,6 +184,7 @@ const Projects = () => {
                 href="https://short-shop.netlify.app/"
                 className="visit-btn"
                 target="_blank"
+                rel="noreferrer"
               >
                 Visit
               </a>
@@ -196,7 +203,12 @@ const Projects = () => {
               <Link to="" className="about-btn">
                 About
               </Link>
-              <a href="" className="visit-btn" target="_blank">
+              <a
+                href="https://annukul.netlify.app"
+                className="visit-btn"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Visit
               </a>
             </div>
