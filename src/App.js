@@ -9,7 +9,6 @@ const App = () => {
     <Router>
       <div>
         <Route path="/" exact render={() => <Home />} />
-        {/* <Route path="/view/:id" render={() => <ViewProject />} /> */}
       </div>
     </Router>
   );
