@@ -7,9 +7,7 @@ import Home from "./pages/home/Home";
 const App = () => {
   return (
     <Router>
-      <div>
-        <Route path="/" exact render={() => <Home />} />
-      </div>
+      <Route path="/" exact render={() => <Home />} />
     </Router>
   );
 };
